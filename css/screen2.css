@@ -1,0 +1,739 @@
+/*==============================================*/
+/*----------------------------------------------*/
+@media (min-width: 0px) and (max-width: 419px) {}
+/*----------------------------------------------*/    
+@media (min-width: 420px) and (max-width: 767px) {}
+/*----------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .hsb-expert__review.slick-slide.slick-active {
+       /* min-height: 300px; */
+    }
+}
+/*----------------------------------------------*/
+@media (min-width: 992px) and (max-width: 1199px) {}
+/*----------------------------------------------*/
+@media (min-width: 1200px) {}
+/*----------------------------------------------*/
+/*==============================================*/
+/*----------------------------------------------*/
+@media (min-width: 0px) {}
+/*----------------------------------------------*/
+@media (min-width: 420px) {}
+/*----------------------------------------------*/
+@media (min-width: 768px) {}
+/*----------------------------------------------*/
+@media (min-width: 992px) {}
+/*----------------------------------------------*/
+@media (min-width: 1200px) {}
+/*----------------------------------------------*/
+/*==============================================*/
+/*----------------------------------------------*/
+@media (max-width: 1199px) {
+    /*----------------------------------------------*/
+    /* TEMPLATES */
+    /*----------------------------------------------*/
+    .hsj-review__prev {
+        left: 9px;
+    }
+    .hsj-expert__reviews {
+        width: 361px;
+        overflow: hidden;
+    }
+    
+    .hsb-high-effect__item {
+        width: 306px;
+    }
+    .hsb-high-effect__item:nth-child(4n), 
+    .hsb-high-effect__item:nth-child(4n+1) {
+        clear: none;
+    }
+    .hsb-high-effect__item:nth-child(4n+1) {
+        margin-left: 24px;
+    }
+    .hsb-high-effect__item:nth-child(3n) {
+        clear: right;
+    }
+    .hsb-high-effect__item:nth-child(3n+1) {
+        margin-left: 0;
+        clear: both;
+    }
+    
+    .hsb-presents__item {
+        width: 230px;
+    }
+    .hsb-presents__item + .hsb-presents__item {
+        margin-left: 16px;
+    }
+    
+    .hsb-author-tech__subtitle {
+        margin-top: 10px;
+    }
+    .hsb-author-tech__content-left {
+        margin-top: 0;
+        margin-left: 0;
+        background-size: contain;
+        width: 456px;
+        height: 426px;
+    }
+    .hsb-author-tech__content-right {
+        margin-left: 0;
+        margin-top: 138px;
+    }
+    .hsb-author-tech__btn {
+        margin-bottom: 30px;
+    }
+    
+    .hsb-body-map__left {
+        width: 697px;
+    }
+        .hsb-body-map__list-left {
+            width: 220px;
+        }
+        .hsb-body-map__body {
+            margin-left: 10px;
+        }
+        .hsb-body-map__list-right {
+            margin-left: 10px;
+        }
+        
+    .hsb-body-map__right {
+        width: 238px;
+    }
+        .hsb-body-map__right-title {
+            margin-left: 4px;
+        }
+        .hsb-body-map__right ul {
+            margin-left: 38px;
+        }
+    
+    .hsb-expert__tabs-header li.active,
+    .hsb-expert__tabs-header li {
+        width: 194px;
+        padding: 43px 20px 0;
+    }
+    
+    .hsb-expert__btns > .hsg-fl + .hsg-fl,
+    .hsb-expert__reviews {
+        width: 451px;
+    }
+        
+    .hsb-expert__btns > .hsg-fl,
+    .hsb-expert__descr {
+        width: 459px;
+    }
+    
+    .hsb-result__item {
+        width: 100%;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+        .hsb-result__right {
+            width: 335px;
+        }
+        .hsb-result__left {
+            width: 511px;
+        }
+        .hsb-result__left .hsb-result__txt + .hsb-result__txt {
+            margin-left: 10px;
+        }
+    .hsj-result__prev {
+        left: 0;
+    }
+    
+    .hsb-result {
+        padding: 0 25px;
+    }
+    .hsj-result {
+        width: 100%;
+    }
+}   
+/*----------------------------------------------*/
+@media (max-width: 991px) {
+    /*----------------------------------------------*/
+    /* HEADER */
+    #hs-header {
+        
+    }
+    /*.............................*/
+    /* /HEADER */
+    /*----------------------------------------------*/
+    /* FOOTER */
+    #hs-footer {
+        
+    }
+    /*.............................*/
+    /* /FOOTER */
+    /*----------------------------------------------*/
+    /* MAIN */
+    #hs-main {
+        
+    }
+    /*.............................*/
+    /* /MAIN */
+    /*----------------------------------------------*/
+    .hsj-result__next {
+        right: 0;
+    }
+    
+    .hsj-review__next, .hsj-review__prev {
+        top: 60px;
+    }
+    
+    .hsb-high-effect__item {
+        width: 363px;
+    }
+    .hsb-high-effect__item:nth-child(3n), 
+    .hsb-high-effect__item:nth-child(3n+1) {
+        clear: none;
+    }
+    .hsb-high-effect__item:nth-child(3n+1) {
+        margin-left: 24px;
+    }
+    .hsb-high-effect__item:nth-child(2n) {
+        clear: right;
+    }
+    .hsb-high-effect__item:nth-child(2n+1) {
+        margin-left: 0;
+        clear: both;
+    }
+    
+    .hsb-presents__item + .hsb-presents__item {
+        margin-left: 54px;
+    }
+    .hsb-presents__item {
+        width: 348px;
+        margin-bottom: 10px;
+    }
+    .hsb-presents__item:nth-child(2n) {
+        clear: right;
+    }
+    .hsb-presents__item:nth-child(2n+1) {
+        margin-left: 0;
+        clear: both;
+    }
+    
+    .hsb-video-box {
+        width: 735px;
+    }
+        .hsb-video-box__item {
+            width: 359px;
+        }
+    
+    .hsb-programs__item {
+        width: 366px;
+    }
+        .hsb-programs__item + .hsb-programs__item {
+            margin-left: 15px;
+        }
+        .hsb-programs__item-title,
+        .hsb-programs__item-txt {
+            font-size: 22px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    
+    .hsb-form__form {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .hsb-form__form input[type="text"],
+    .hsb-form__form input[type="submit"] {
+        width: 241px;
+    }
+    .hsb-author-tech {
+        position: relative;
+    }
+    .hsb-author-tech__content-left {
+        position: static;
+        margin-left: auto;
+        margin-right: auto;
+        background-position: bottom center;
+    }
+    .hsb-author-tech__content-right {
+        margin-top: 33px;
+        background: url(../img/bg-author-tech-right-mobile.png) no-repeat;
+        min-height: 242px;
+        padding-left: 73px;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        padding-right: 17px;
+    }
+    .hsb-author-tech__btn {
+        position: absolute;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        bottom: 30px;
+        left: 0;
+        right: 0;
+    }
+    
+    .hsb-body-map__left {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
+        .hsb-body-map__list-left {
+            width: 220px;
+        }
+        .hsb-body-map__body {            
+            margin-left: 46px;
+        }
+        .hsb-body-map__list-right {
+            margin-left: 0;
+            float: right;
+        }
+    .hsb-body-map__right {
+        float: none;
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    .hsb-expert__tabs-header li.active,
+    .hsb-expert__tabs-header li {
+        width: 50%;
+        padding: 10px;
+    }
+        .hsb-expert__tabs-header li:nth-child(2n) {
+            clear: right;
+        }
+        .hsb-expert__tabs-header li:nth-child(2n+1) {
+            clear: both;
+        }
+        .hsb-expert__tabs-img {
+            float: left;
+            margin-right: 10px;
+        }
+        .hsb-expert__tabs-name {
+            margin-bottom: 10px;
+        }
+        .hsb-expert__tabs-descr {
+            margin-top: 0;
+        }
+    .hsb-expert__tabs-content {
+        padding: 25px;
+    }
+        .hsb-expert__reviews,
+        .hsb-expert__descr {
+            width: 100%;
+        }
+        .hsb-expert__reviews {
+            padding-left: 0;
+            margin-top: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+            .hsj-expert__reviews {
+                width: 100%;
+            }
+            .hsj-review__prev {
+                left: -17px;
+            }
+            .hsj-review__next {
+                right: -17px;
+            }
+        .hsb-expert__btns {
+            margin-top: 20px;
+        }
+        .hsb-expert__btns > .hsg-fl,
+        .hsb-expert__btns > .hsg-fl + .hsg-fl {
+            width: 50%;
+        }
+    
+    .hsb-result__left {
+        width: 100%;
+    }
+        .hsb-result__imgs {
+            text-align: center;
+        }
+            .hsb-result__img {
+                float: none;
+                display: inline-block;
+            }
+        .hsb-result__right .hsb-result__txt,
+        .hsb-result__left .hsb-result__txt {
+            width: 50%;
+            margin-top: 20px;
+            margin-left: 0;
+            float: left;
+            padding: 0 10px;
+        }
+    .hsb-result__right {
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+    .hsb-sign-look {
+        margin-top: 35px;
+    }
+    
+    .hsb-result__left .hsb-result__txt + .hsb-result__txt {
+        margin-left: 0;
+    }
+    
+}
+/*----------------------------------------------*/
+@media (max-width: 767px) {
+    .hsj-body__canvas,
+    .hsb-expert__tabs-content {
+        display: none;
+    }
+    .hsb-programs__item-title,
+    .hsb-programs__item-txt {
+        cursor: pointer;
+        font-size: 22px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .hsb-programs__item-title span {
+        display: inline-block;
+        border-bottom: 1px dashed #000000;
+    }
+    .hsj-review__prev,
+    .hsj-review__next {
+        display: none !important;
+    }
+    
+    .hsb-programs__item {
+        box-shadow: none;
+    }
+    
+    br {
+        display: none !important;
+    }
+    
+    .hsj-result__next {
+        right: 5px;
+    }
+    .hsj-result__left {
+        left: 5px;
+    }
+    /*----------------------------------------------*/
+    /* HEADER */
+    #hs-header {
+        
+    }
+    /*.............................*/
+    /* /HEADER */
+    /*----------------------------------------------*/
+    /* FOOTER */
+    #hs-footer {
+        
+    }
+    /*.............................*/
+    /* /FOOTER */
+    /*----------------------------------------------*/
+    /* MAIN */
+    #hs-main {
+        
+    }
+    /*.............................*/
+    /* /MAIN */
+    /*----------------------------------------------*/
+    .hsb-expert__title,
+    .hsb-presents,
+    .hsb-programs,
+    .hsb-result,
+    .hsw-form,
+    .hsb-high-effect__txt,
+    .hsb-high-effect__title,
+    .hsb-author-tech {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    
+    .hsb-author-tech__title,
+    .hsb-high-effect__title,
+    .hsb-video-box,
+    .hsb-programs__title,
+    .hsb-form,
+    .hsb-presents{
+        margin-top: 25px;
+    }
+    .hsb-high-effect,
+    .hsb-programs,
+    .hsb-often-trouble,
+    .hsb-result__btn {
+        margin-bottom: 25px;
+    }
+    
+    
+    .hsb-presents,
+    .hsb-high-effect {
+        text-align: center;
+    }
+        .hsb-presents__list,
+        .hsb-high-effect__list {
+            margin-top: 20px;
+            display: inline-block;
+            text-align: left;
+        }
+        .hsb-presents__item,
+        .hsb-high-effect__item {
+            width: 230px;
+            margin-bottom: 25px;
+        }
+            .hsb-high-effect__item-title {
+                margin-top: 18px;
+                min-height: 50px;
+            }
+        .hsb-high-effect__item + .hsb-high-effect__item,
+        .hsb-presents__item + .hsb-presents__item {
+            margin-left: 15px;
+        }
+    
+    .hsb-video-box {
+        width: 100%;
+        padding: 0 10px;
+    }
+        .hsb-video-box__item {
+            width: 100%;
+        }
+        .hsb-video-box__item + .hsb-video-box__item {
+            margin-left: 0;
+        }
+        .hsb-video-box__big {
+            margin-top: 10px;
+        }
+    
+    .hsb-programs__item {
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+        .hsb-programs__item + .hsb-programs__item {
+            margin-left: 0;
+            margin-top: 10px
+        }
+        .hsb-programs__item-txt {
+            display: none;
+        }
+    .hsw-map__txt {
+        position: static;
+        width: 100%;
+        text-align: center;
+        font-size: 22px;
+        padding: 40px 5px 26px 5px;
+    }
+        .hsw-map__txt div + div {
+            margin-top: 14px;
+        }
+        
+    .hsb-form__form {
+        margin-bottom: 23px;
+    }
+    .hsb-form__form input[type="text"],
+    .hsb-form__form input[type="submit"] {
+        margin: 13px auto;
+        float: none;
+    }
+    
+    .hsb-often-trouble__tabs-header li a{
+        min-width: 173px;
+    }
+    
+    .hsb-body-map__list-left,
+    .hsb-body-map__list-right {
+        float: none;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        margin: 0;
+        padding: 0;
+        float: none;
+        width: 99%;
+        z-index: 7;
+    }
+        .hsb-body-map__disease {
+            position: absolute;
+            left: 0;
+            right: 0;
+            opacity: 0;
+            z-index: -100;
+            transition: all .3s linear;
+            width: 0;
+        }
+        .hsb-body-map__disease.hsj-body_active {
+            opacity: 1;
+            background: #a0a0a0;
+            padding: 5px;
+            border-radius: 5px;
+            width: 300px;
+            left: 50%;
+            margin-left: -150px;
+            z-index: 10;
+        }
+        
+        .hsb-body-map__list-right .hsb-body-map__disease-title,
+        .hsb-body-map__disease-title {
+            text-align: center;
+        }
+        
+        .hsb-body-map__body {
+            margin-left: auto;
+            margin-right: auto;
+            float: none;
+            margin-top: 15px;
+        }
+            .hsb-body-map__body-dot.hsb-body-map__body-active:before,
+            .hsb-body-map__body:before {
+                display: none;
+            }
+    .hsb-author-tech__content-right {
+        /*background: none;
+        color: #fff;
+        padding: 10px;*/
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-position: center;
+        padding-left: 10px;
+        width: 100%;
+        min-height: 0;
+    }
+    
+    .hsb-expert__tabs-header li.active,
+    .hsb-expert__tabs-header li {
+        width: 100%;
+        float: none;
+        overflow: hidden;
+    }
+    .hsb-expert__btns > .hsg-fl,
+    .hsb-expert__btns > .hsg-fl + .hsg-fl {
+        width: 100%;
+    }
+    .hsb-expert__btns > .hsg-fl + .hsg-fl {
+        margin-top: 10px;
+    }
+    
+    .hsb-result__imgs {
+        padding-top: 10px;
+    }
+        .hsb-result__img + .hsb-result__img {
+            margin-left: 5px;
+        }
+        .hsb-result__right .hsb-result__txt,
+        .hsb-result__left .hsb-result__txt {
+            width: 100%;
+            margin-top: 20px;
+            margin-left: 0;
+            float: none;
+            padding: 0 10px;
+        }
+    .hsj-result__next,
+    .hsj-result__prev {
+        display: none !important;
+    }
+    
+    .hsb-expert__tabs-img {
+        float: none;
+        margin: 0 auto;
+    }
+    .hsb-expert__tabs-name {
+        text-align: center;
+    }
+    .hsb-expert__tabs-name,
+    .hsb-expert__tabs-descr {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+}
+/*----------------------------------------------*/
+@media (max-width: 542px) {
+    .hsb-result__img + .hsb-result__img {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    
+}
+/*----------------------------------------------*/
+@media (max-width: 510px) {
+    .hsb-presents__item,
+    .hsb-high-effect__item {
+        width: 100%;
+        margin-bottom: 25px;
+        padding: 0 10px;
+    }
+        .hsb-presents__item + .hsb-presents__item,
+        .hsb-high-effect__item + .hsb-high-effect__item {
+            margin-left: 0;
+        }
+        
+        .hsb-presents__item-title {
+            margin-top: 13px;
+        }
+        .hsb-presents__item-txt {
+            margin-top: 18px;
+        }
+    
+    .hsb-author-tech__content-left {
+        width: 400px;
+        height: 347px;
+    }
+}
+/*----------------------------------------------*/
+@media (max-width: 420px) {
+    /*----------------------------------------------*/
+    /* HEADER */
+    #hs-header {
+        
+    }
+    /*.............................*/
+    /* /HEADER */
+    /*----------------------------------------------*/
+    /* FOOTER */
+    #hs-footer {
+        
+    }
+    /*.............................*/
+    /* /FOOTER */
+    /*----------------------------------------------*/
+    /* MAIN */
+    #hs-main {
+        
+    }
+    /*.............................*/
+    /* /MAIN */
+    /*----------------------------------------------*/
+    .hsb-author-tech__btn > * {
+        padding: 12px 10px;
+    }
+    .hsb-often-trouble__tabs-header li a{
+        min-width: 120px;
+    }
+    
+    .hsb-video-box__big,
+    .hsb-video-box__item {
+        height: 165px;
+    }
+    
+    .hsb-author-tech__content-left {
+        width: 293px;
+        height: 256px;
+    }
+    .hsb-form__title {
+        line-height: 32px;
+    }
+    
+    .hsb-expert__btns > .hsg-fl,
+    .hsb-expert__btns > .hsg-fl + .hsg-fl,
+    .hsb-result__btn,
+    .hsb-high-effect__btn,
+    .hsb-author-tech__btn {
+        padding: 0 20px;
+    }
+        .hsb-expert__btns > .hsg-fl > *,
+        .hsb-result__btn > *,
+        .hsb-high-effect__btn > *,
+        .hsb-author-tech__btn > * {
+            width: 100%;
+            min-width: 0;
+        }
+        .hsb-result__btn > * {
+            padding-left: 0;
+            padding-right: 0;
+        }
+        
+}
+/*----------------------------------------------*/

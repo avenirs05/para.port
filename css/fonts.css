@@ -1,0 +1,85 @@
+/*----------------------------------------------*/
+/* PFSquareSansPro */
+@font-face {
+  font-family: 'PFSquareSansPro';
+  src: url('../fonts/PFSquareSansPro-Regular/PFSquareSansPro-Regular.eot?v=4.5.0');
+  src: url('../fonts/PFSquareSansPro-Regular/PFSquareSansPro-Regular.eot?#iefix&v=4.5.0')               format('embedded-opentype'),
+       url('../fonts/PFSquareSansPro-Regular/PFSquareSansPro-Regular.woff2')                            format('woff2'),
+       url('../fonts/PFSquareSansPro-Regular/PFSquareSansPro-Regular.woff?v=4.5.0')                     format('woff'),
+       url('../fonts/PFSquareSansPro-Regular/PFSquareSansPro-Regular.ttf?v=4.5.0')                      format('truetype'),
+       url('../fonts/PFSquareSansPro-Regular/PFSquareSansPro-Regular.svg?v=4.5.0#fontawesomeregular')   format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*.............................*/
+/*----------------------------------------------*/
+/* PFSquareSansPro  BOLD*/
+@font-face {
+  font-family: 'PFSquareSansPro';
+  src: url('../fonts/PFSquareSansPro-Bold/PFSquareSansPro-Bold.eot?v=4.5.0');
+  src: url('../fonts/PFSquareSansPro-Bold/PFSquareSansPro-Bold.eot?#iefix&v=4.5.0')               format('embedded-opentype'),
+       url('../fonts/PFSquareSansPro-Bold/PFSquareSansPro-Bold.woff2')                            format('woff2'),
+       url('../fonts/PFSquareSansPro-Bold/PFSquareSansPro-Bold.woff?v=4.5.0')                     format('woff'),
+       url('../fonts/PFSquareSansPro-Bold/PFSquareSansPro-Bold.ttf?v=4.5.0')                      format('truetype'),
+       url('../fonts/PFSquareSansPro-Bold/PFSquareSansPro-Bold.svg?v=4.5.0#fontawesomeregular')   format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+/*.............................*/
+/*----------------------------------------------*/
+/* PFSquareSansPro  MEDIUM*/
+@font-face {
+  font-family: 'PFSquareSansPro';
+  src: url('../fonts/PFSquareSansPro-Medium/PFSquareSansPro-Medium.eot?v=4.5.0');
+  src: url('../fonts/PFSquareSansPro-Medium/PFSquareSansPro-Medium.eot?#iefix&v=4.5.0')               format('embedded-opentype'),
+       url('../fonts/PFSquareSansPro-Medium/PFSquareSansPro-Medium.woff2')                            format('woff2'),
+       url('../fonts/PFSquareSansPro-Medium/PFSquareSansPro-Medium.woff?v=4.5.0')                     format('woff'),
+       url('../fonts/PFSquareSansPro-Medium/PFSquareSansPro-Medium.ttf?v=4.5.0')                      format('truetype'),
+       url('../fonts/PFSquareSansPro-Medium/PFSquareSansPro-Medium.svg?v=4.5.0#fontawesomeregular')   format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+/*.............................*/
+/*----------------------------------------------*/
+/* PFSquareSansPro  EXTRA BLACK*/
+@font-face {
+  font-family: 'PFSquareSansPro';
+  src: url('../fonts/PFSquareSansPro-ExtraBlack/PFSquareSansPro-ExtraBlack.eot?v=4.5.0');
+  src: url('../fonts/PFSquareSansPro-ExtraBlack/PFSquareSansPro-ExtraBlack.eot?#iefix&v=4.5.0')               format('embedded-opentype'),
+       url('../fonts/PFSquareSansPro-ExtraBlack/PFSquareSansPro-ExtraBlack.woff2')                            format('woff2'),
+       url('../fonts/PFSquareSansPro-ExtraBlack/PFSquareSansPro-ExtraBlack.woff?v=4.5.0')                     format('woff'),
+       url('../fonts/PFSquareSansPro-ExtraBlack/PFSquareSansPro-ExtraBlack.ttf?v=4.5.0')                      format('truetype'),
+       url('../fonts/PFSquareSansPro-ExtraBlack/PFSquareSansPro-ExtraBlack.svg?v=4.5.0#fontawesomeregular')   format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+/*.............................*/
+/*----------------------------------------------*/
+/* PFSquareSansPro  EXTRA BLACK*/
+@font-face {
+  font-family: 'PFSquareSansPro';
+  src: url('../fonts/PFSquareSansPro-Thin/PFSquareSansPro-Thin.eot?v=4.5.0');
+  src: url('../fonts/PFSquareSansPro-Thin/PFSquareSansPro-Thin.eot?#iefix&v=4.5.0')               format('embedded-opentype'),
+       url('../fonts/PFSquareSansPro-Thin/PFSquareSansPro-Thin.woff2')                            format('woff2'),
+       url('../fonts/PFSquareSansPro-Thin/PFSquareSansPro-Thin.woff?v=4.5.0')                     format('woff'),
+       url('../fonts/PFSquareSansPro-Thin/PFSquareSansPro-Thin.ttf?v=4.5.0')                      format('truetype'),
+       url('../fonts/PFSquareSansPro-Thin/PFSquareSansPro-Thin.svg?v=4.5.0#fontawesomeregular')   format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+/*.............................*/
+/*----------------------------------------------*/
+/* PFSquareSansPro  LIGHT ITALIC*/
+@font-face {
+  font-family: 'PFSquareSansPro';
+  src: url('../fonts/PFSquareSansPro-LightItalic/PFSquareSansPro-LightItalic.eot?v=4.5.0');
+  src: url('../fonts/PFSquareSansPro-LightItalic/PFSquareSansPro-LightItalic.eot?#iefix&v=4.5.0')               format('embedded-opentype'),
+       url('../fonts/PFSquareSansPro-LightItalic/PFSquareSansPro-LightItalic.woff2')                            format('woff2'),
+       url('../fonts/PFSquareSansPro-LightItalic/PFSquareSansPro-LightItalic.woff?v=4.5.0')                     format('woff'),
+       url('../fonts/PFSquareSansPro-LightItalic/PFSquareSansPro-LightItalic.ttf?v=4.5.0')                      format('truetype'),
+       url('../fonts/PFSquareSansPro-LightItalic/PFSquareSansPro-LightItalic.svg?v=4.5.0#fontawesomeregular')   format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+/*.............................*/
+/*----------------------------------------------*/
