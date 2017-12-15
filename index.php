@@ -2084,7 +2084,7 @@
                             <div class="hsb-foot-info">
     <ul>
         <li>ООО "Восточный Медицинский Центр"</li>
-        <li>Юридический и фактический адрес: 123100,г. Москва,</li>
+        <li>Юридический и фактический адрес: 123100, г. Москва,</li>
         <li>Шмитовский проезд, д. 16, кор.2</li>
     </ul>
     <ul>
@@ -2107,7 +2107,7 @@
                         <div class="row">
                             <div class="hsb-orange">
     Сайт сделан в<br>
-    <a href="http://yandex.ru" style="font-size: 18px; color: rgb(251, 140, 0);" target="_blank">SMART FOX</a>
+    <a href="http://smartfox.su/" style="font-size: 18px; color: rgb(251, 140, 0);" target="_blank">SMART FOX</a>
 </div>
                         </div>
                     </div>
